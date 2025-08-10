@@ -1,4 +1,4 @@
-package task2;
+package Lesson_Constructor.task2;
 
 public class Course {
 

@@ -1,4 +1,4 @@
-package HomeWork;
+package Lesson_Constructor.HomeWork;
 
 public class Main {
     public static void main(String[] args) {

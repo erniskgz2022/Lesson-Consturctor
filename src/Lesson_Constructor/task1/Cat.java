@@ -1,4 +1,4 @@
-package task1;
+package Lesson_Constructor.task1;
 
 public class Cat {
     String color;

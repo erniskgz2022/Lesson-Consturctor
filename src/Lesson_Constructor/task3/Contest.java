@@ -1,4 +1,4 @@
-package task3;
+package Lesson_Constructor.task3;
 
 public class Contest {
     int id;
